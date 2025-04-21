@@ -65,7 +65,7 @@ This script will:
 
 ## 👨‍💻 Author
 
-Developed by **Mohsin Raza Devjani** & **Syed Bakhtawar Fahim** 
+Developed by [Mohsin Raza Devjani](https://github.com/Mohsin-Devjani) & **Syed Bakhtawar Fahim** </br>
 🛠 Passionate about database automation and backend development  
 📬 Feel free to connect or contribute!
 
